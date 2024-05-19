@@ -19,4 +19,7 @@
 
 ## 用`Simple Transformers`包
 > GitHub: [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
+
 1. 安装 [simpletransformers](https://simpletransformers.ai/docs/installation/)
+2. 
+https://simpletransformers.ai/docs/installation/
