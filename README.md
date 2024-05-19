@@ -18,8 +18,10 @@
 6. 后台开个小抄 [CONDA CHEAT SHEET](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
 ## 用`Simple Transformers`包
+> [教程](https://youtu.be/u--UVvH-LIQ)
 > GitHub: [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)
 
 1. 安装 [simpletransformers](https://simpletransformers.ai/docs/installation/)
-2. 
+
 https://simpletransformers.ai/docs/installation/
+
