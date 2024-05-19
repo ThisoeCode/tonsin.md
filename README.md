@@ -5,6 +5,8 @@
 
 [油管教程](https://www.python.org/downloads/)
 
+[python](https://bootstrap.pypa.io/get-pip.py)
+
 ## 准备
 
 1. 下载 [Anaconda](https://www.anaconda.com/download/success)
