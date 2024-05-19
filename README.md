@@ -1,5 +1,8 @@
 # Thisoe's Temp Communicate Board
 
+## 实时
+[Python 官网](https://www.python.org/downloads/)
+
 ## 准备
 
 1. 下载 [Anaconda](https://www.anaconda.com/download/success)
