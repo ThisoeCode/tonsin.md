@@ -1,9 +1,9 @@
 # Thisoe's Temp Communicate Board
 
 ## 实时
-[Python 官网](https://www.python.org/downloads/)
-
 [油管教程](https://www.python.org/downloads/)
+
+[Python 官网](https://www.python.org/downloads/)
 
 [pip 安装程序源](https://bootstrap.pypa.io/get-pip.py)
 (Ctrl+S保存文件，在文件管理器的地址栏写cmd，使用指令`py get-pip.py`)
