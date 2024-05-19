@@ -1,11 +1,8 @@
 # Thisoe's Temp Communicate Board
 
 ## 实时
-[Python 官网](https://www.python.org/downloads/)
 
 [油管教程](https://www.python.org/downloads/)
-
-[pip 安装程序源](https://bootstrap.pypa.io/get-pip.py)
 
 ## 准备
 
