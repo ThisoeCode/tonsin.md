@@ -5,7 +5,7 @@
 
 [油管教程](https://www.python.org/downloads/)
 
-[python](https://bootstrap.pypa.io/get-pip.py)
+[pip 安装程序源](https://bootstrap.pypa.io/get-pip.py)
 
 ## 准备
 
