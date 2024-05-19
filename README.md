@@ -1,7 +1,7 @@
 # Thisoe's Temp Communicate Board
 
 ## 实时
-[油管教程](https://www.python.org/downloads/)
+[油管教程](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=1)
 
 [Python 官网](https://www.python.org/downloads/)
 
