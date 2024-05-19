@@ -1,4 +1,4 @@
-# Thisoe's Temp Communicate Board - TONGSIN
+# Thisoe's Temp Communicate Board
 
 ## 准备
 
