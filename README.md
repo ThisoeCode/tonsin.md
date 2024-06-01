@@ -28,8 +28,7 @@
    git add -A
    git commit -am "init"
    cd cirtorch
-   py
-   examples.test imageretrievalnet
+   py examples\test.py -npath networks\imageretrievalnet
    ```
 6. 
 
