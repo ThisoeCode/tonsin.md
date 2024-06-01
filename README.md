@@ -30,7 +30,8 @@
    cd cirtorch
    py examples\test.py -npath networks\imageretrievalnet
    ```
-6. 
+<span style="color:tomato">遇到问题：发现程序在运行Unix类系统指令（Linux或Mac）。尝试改写源代码……</span>
+ 
 
 
 
