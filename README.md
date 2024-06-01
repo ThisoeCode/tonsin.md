@@ -6,11 +6,11 @@
 0. 想用git的话[安装git](https://gitforwindows.org/)
 1. 在“开始”以管理员身份打开cmd，安装`PyTorch`和`torchvision`
    ```bat
-   pip install torchvision
-   pip3 install torch torchvision torchaudio
+   pip install numpy torch torchvision torchaudio
    ```
-   > 用`pip list`检查安装结果。若安装成功，列表中应包括：
+   > 用`pip list`检查安装结果。若安装成功，列表中应包括（版本号可以不同）：
    > ```
+   > numpy             1.26.4
    > torch             2.3.0
    > torchaudio        2.3.0
    > torchvision       0.18.0
@@ -32,10 +32,31 @@
    ```
 
 > _遇到问题：发现程序在运行Unix类系统指令（Linux或Mac）。尝试改写源代码……_
-> 
+> (出现 `wget` `ln` `rm` 等指令)
 
+6. 在根目录打开新的cmd
+   ```bat
+   cd ..
+   code .
+   ```
+7. 在“开始”以管理员身份打开cmd
+   ```bat
+   pip install requests
+   ```
+8. 修改`test.py`文件
+   改后文件见此
+   
+9. 回到cmd，清除上次运行产生的垃圾后试运行:
+   ```
+   del /S C:\Python312\Lib\site-packages\data\*
+     Y ...
+   del /S C:\Python312\Lib\site-packages\data\*
+     Y ...
+   set CUDA_VISIBLE_DEVICES=0
+   py cirtorch\examples\test.py -npath networks\imageretrievalnet
+   ```
 
-
+<br><br>
 ## 24年5月
 <details><summary><b>实时</b></summary><br/>
 [油管教程](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz&index=1)
