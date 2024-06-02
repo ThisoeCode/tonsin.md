@@ -44,7 +44,7 @@
    pip install requests
    ```
 8. 修改`test.py`文件
-   改后文件见此
+   [改后文件见此](https://github.com/ThisoeCode/tonsin.md/blob/main/cirtorch/test.py)
    
 9. 回到cmd，清除上次运行产生的垃圾后试运行:
    ```
